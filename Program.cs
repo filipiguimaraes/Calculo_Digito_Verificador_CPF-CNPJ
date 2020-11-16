@@ -21,6 +21,7 @@ namespace AnalisadorCPFeCNPJ
         private static EscritorArquivo _EscritorArquivo;
         private static Stopwatch _TempoCPF, _TempoCNPJ, _TempoLeituraArquivo, _TempoTotal;
 
+
         static void Main(string[] args)
         {
             _TempoCPF = new Stopwatch();

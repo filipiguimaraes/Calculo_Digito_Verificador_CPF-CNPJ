@@ -9,7 +9,6 @@ namespace AnalisadorCPFeCNPJ.BLL
 {
     class ValidadorCNPJ : IValidadorDigito
     {
-        public int CNPJAvaliados = 0;
         public List<string> _ListCNPJs;
         private List<string> _ListCNPJsComDigito;
         public ValidadorCNPJ(List<string> listCNPJs)
