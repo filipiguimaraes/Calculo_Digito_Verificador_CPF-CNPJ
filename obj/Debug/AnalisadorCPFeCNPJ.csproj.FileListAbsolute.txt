@@ -1,0 +1,7 @@
+C:\Users\fgsil\source\repos\AnalisadorCPFeCNPJ\bin\Debug\AnalisadorCPFeCNPJ.exe.config
+C:\Users\fgsil\source\repos\AnalisadorCPFeCNPJ\bin\Debug\AnalisadorCPFeCNPJ.exe
+C:\Users\fgsil\source\repos\AnalisadorCPFeCNPJ\bin\Debug\AnalisadorCPFeCNPJ.pdb
+C:\Users\fgsil\source\repos\AnalisadorCPFeCNPJ\obj\Debug\AnalisadorCPFeCNPJ.csprojAssemblyReference.cache
+C:\Users\fgsil\source\repos\AnalisadorCPFeCNPJ\obj\Debug\AnalisadorCPFeCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\fgsil\source\repos\AnalisadorCPFeCNPJ\obj\Debug\AnalisadorCPFeCNPJ.exe
+C:\Users\fgsil\source\repos\AnalisadorCPFeCNPJ\obj\Debug\AnalisadorCPFeCNPJ.pdb
