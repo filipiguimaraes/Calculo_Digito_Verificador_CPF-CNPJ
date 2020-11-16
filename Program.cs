@@ -5,10 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Diagnostics;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace AnalisadorCPFeCNPJ
 {
@@ -20,7 +17,6 @@ namespace AnalisadorCPFeCNPJ
         private static LeitorArquivo _LeitorArquivo;
         private static EscritorArquivo _EscritorArquivo;
         private static Stopwatch _TempoCPF, _TempoCNPJ, _TempoLeituraArquivo, _TempoTotal;
-
 
         static void Main(string[] args)
         {
