@@ -9,26 +9,6 @@ namespace AnalisadorCPFeCNPJ.Util
         StreamReader _Arquivo;
         readonly List<string> _ListaCPFs, _ListaCNPJs;
 
-
-        public LeitorArquivo(string @caminhoArquivo)
-        {
-            if (File.Exists(@caminhoArquivo))
-            {
-                try
-                {
-                    _Arquivo = new StreamReader(@caminhoArquivo);
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.ToString());
-                }
-            }
-            else
-            {
-                Console.WriteLine(string.Format("Arquivo não encontrado. \n Caminho: {0} ", @caminhoArquivo));
-            }
-        }
-
         public LeitorArquivo(string @caminhoArquivo, List<string> listaCPFs, List<string> listaCNPJs)
         {
             if (File.Exists(@caminhoArquivo))
